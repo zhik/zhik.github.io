@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-image: url("/images/nav.png");
+    margin: 0px 5px;
+    padding: 5px 0px;
+}
+
+nav a{
+    padding: 10px;
+    color: white;
+    text-shadow: 1px 1px black;
+    background-color: rgba(128,128,128,0.9);
+}
+
+img{
+    height: 350px;
+}
+
+.icon img{
+    height: 50px;
+}
