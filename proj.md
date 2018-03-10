@@ -10,6 +10,12 @@ title: projects
 
 ## NYCDOT
 
+### SIP Project viewer [Javascript]
+![sip project viewer](images/sips.gif)
+
+* Using Mapbox and chart.js to display filtered information from GeoServer. 
+* Includes different views for other projects.
+
 ### Roadway Deterioration Prediction [Python, R, SQL, Javascript]
 
 * Processing and generating datasets from ArcSDE using python (arcpy and pandas)
