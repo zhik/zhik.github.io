@@ -10,6 +10,13 @@ title: projects
 
 ## NYCDOT
 
+### Web Batch Geocoder [Javascript]
+![web batch Geocoder](images/geocoder.gif)
+
+* Using Geocoder API to make a web interface for easy geocoding of large speadsheets.
+* View and correct for Geocoding errors 
+* View results in leafet and export as shapefiles.
+
 ### SIP Project viewer [Javascript]
 ![sip project viewer](images/sips.gif)
 
