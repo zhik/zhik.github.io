@@ -7,20 +7,30 @@ title: projects
 
 ----------------
 
-
 ## NYCDOT
 
-### Web Batch Geocoder [Javascript]
-![web batch Geocoder](images/geocoder.gif)
+### Web Batch Geocoder [Python, Javascript]
+![web batch geocoder demo](images/geocoder.gif)
 
-* Using Geocoder API to make a web interface for easy geocoding of large speadsheets.
-* View and correct for Geocoding errors 
+* Using Geosupport to make a web interface for easy geocoding of large speadsheets.
+* View and correct for Geocoding errors.
 * View results in leafet and export as shapefiles.
 
-### SIP Project viewer [Javascript]
-![sip project viewer](images/sips.gif)
+### QGIS 3 Cyclomedia Plugin [Python]
+![qgis 3 cyclomedia plugin demo](images/qgis-cyclomedia.gif)
 
-* Using Mapbox and chart.js to display filtered information from GeoServer. 
+* A Qgis 3 plugin for browsing Cyclomedia street view and tagging features
+
+### Print Preview with OpenLayers [Javascript]
+![print preview with openlayers demo](images/print-preview.gif)
+
+* rotation of page
+* map adjustments in preview window
+
+### SIP Project viewer [Javascript]
+![sip project viewer demo](images/sips.gif)
+
+* Using Mapbox and chart.js to display queried data from GeoServer.
 * Includes different views for other projects.
 
 ### Roadway Deterioration Prediction [Python, R, SQL, Javascript]
@@ -39,8 +49,9 @@ title: projects
 
 ### Python Script Catalog and Remote use [Sqlite, Python-Flask]
 <!-- ![python script catalog web app](images/script1.png) ![python script catalog web app](images/script2.png) -->
-* Search scripts and view scripts
-* Run using shell processes with parameters from form input.  
+
+* Catalogs various scripts for quick searches based on functions, and tags.
+* Run scripts using shell processes with parameters from form input.  
 
 ----------------
 
