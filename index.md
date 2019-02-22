@@ -10,11 +10,12 @@ title: about
     <a class="icon" href="pdfs/resume.pdf"><img src="images/file.svg" alt="resume-link"></a>
 </div>
 
-> Undergraduate at CUNY Hunter College in Geography (GIS)
+* Undergraduate at CUNY Hunter College in Geography (GIS)
 
-> NYC Department of Transportation - GIS College Aid
-> Manhattan Borough President's Office - Public Service Scholar
+* NYC Department of Transportation - GIS College Aid
 
-> Interested in civic tech, planning, and transportation.
+* Manhattan Borough President's Office - Public Service Scholar
 
-> Also does full stack web dev and data analysis.
+* Interested in civic tech, planning, and transportation.
+
+* Also does fullstack web dev and data analysis.
