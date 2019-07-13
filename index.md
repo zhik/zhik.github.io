@@ -10,12 +10,22 @@ title: about
     <a class="icon" href="pdfs/resume.pdf"><img src="images/file.svg" alt="resume-link"></a>
 </div>
 
-* Undergraduate at CUNY Hunter College in Geography (GIS)
+### Civic techy that builds maps and apps!
 
-* NYC Department of Transportation - GIS College Aid
+Currently at
 
-* Manhattan Borough President's Office - Public Service Scholar
+- U.S. Census Bureau - Software Development Fellow (Coding It Forward)
 
-* Interested in civic tech, planning, and transportation.
+- American Geographical Society - Digital Design Intern
 
-* Also does fullstack web dev and data analysis.
+Education
+
+- Undergraduate at CUNY Hunter College in Geography (GIS)
+
+Previously at
+
+- NYC Department of Transportation - GIS College Aid
+
+- Manhattan Borough President's Office - Public Service Scholar
+
+- NYC Department of City Planning - ITD Intern
