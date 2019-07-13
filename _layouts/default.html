@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="/css/styles.css">
-        <title>{{ page.title }} - zhi</title>
-    </head>
-    <body>
-        <nav>
-            <a href="/">about</a>
-            <a href="/proj">projects</a>
-            <a href="/rand">random</a>
-        </nav> 
-        <div class="container">
-            {{ content }}   
-        </div>
-
-    </body>
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+    <title>{{ page.title }} - zhi</title>
+  </head>
+  <body>
+    <a class="hidden" href="#content">Skip to main content</a>
+    <nav>
+      <a href="/">about</a>
+      <a href="/proj">projects</a>
+      <a href="/rand">random</a>
+    </nav>
+    <div id="content">
+      {{ content }}
+    </div>
+  </body>
 </html>
-
-
-
