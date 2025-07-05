@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-**_ Civic techy that builds maps and apps! _**
+** Spatial Data Engineer, Urban Planner, and Civic Hacker **
 
 <div class="row">
     <!-- icons from fontawesome https://fontawesome.com/license -->
@@ -14,15 +14,19 @@ title: about
 
 ### Currently at
 
-- U.S. Census Bureau - Software Development Fellow (Coding It Forward)
-
-- American Geographical Society - Digital Design Intern
+- U.S. Census Bureau - Data Engineer
 
 ### Education
 
-- Undergraduate at CUNY Hunter College in Geography (GIS)
+- [Master of Urban Planning (Community Planning and Advocacy) @ CUNY Hunter College](https://www.hunterurban.org/master-of-urban-planning)
+
+- Bachelor of Art in Geography (GIS) @ CUNY Hunter College
 
 ### Previously at
+
+- BetaNYC - Data & Research Lab Manager
+
+- American Geographical Society - Digital Editor for FOCUS on Geography
 
 - NYC Department of Transportation - GIS College Aid
 
