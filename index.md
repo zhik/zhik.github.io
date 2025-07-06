@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-** Spatial Data Engineer, Urban Planner, and Civic Hacker **
+**Spatial Data Engineer, Urban Planner, and Civic Hacker**
 
 <div class="row">
     <!-- icons from fontawesome https://fontawesome.com/license -->
