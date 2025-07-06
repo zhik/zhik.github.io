@@ -60,7 +60,7 @@ Assisted community groups and elected offices in over 200 [research and data pro
 - [Get Local East Village](https://getlocalev.com/) - A map directory of local independent businesses in the East Village NYC; and database that helped with the analysis in [Storefront Trends in the East Village, 2019–2021](https://www.evccnyc.org/wp-content/uploads/2023/05/Crisis-and-Adaptation-East-Village-Storefront-Survey.pdf) 
 - [Topographic Address Assignment Database](https://www.beta.nyc/featured-tools/topo-addresses-db/)
 
-![Screenshot of the District 33 Tree Map App](/images/tree.png)
+<img src="/images/tree.png" alt="Screenshot of the District 33 Tree Map App" style="max-height: 25rem;">
 
 
 ## American Geographical Society (Volunteer)
@@ -71,7 +71,7 @@ Here some of the articles that I worked on:
 
 - [Lifeways and currents of change in the Peruvian Amazon: A 1000 km boat journey down the Ucayali River. Abizaid, Coomes, Takasaki](https://www.focusongeography.org/publications/articles/ucayali/index.html)
 
-![map of a route down the Ucayali and Amazon rivers from Pucallpa to Iquitos, June 2018](images/figure2.png)
+<img src="/images/figure2.png" alt="map of a route down the Ucayali and Amazon rivers from Pucallpa to Iquitos, June 2018" style="max-height: 35rem;">
 
 - [Street Art in Baltimore: A Catalyst for Change](http://www.focusongeography.org/publications/articles/baltimore/index.html)
 
@@ -137,7 +137,7 @@ Worked on various projects that aided in the collection, and maintenance of GIS 
 - Catalogs various scripts for quick searches based on functions, and tags.
 - Run scripts using shell processes with parameters from form input.
 
-## 2016 - Zero Bin Project
+### 2016 - Zero Bin Project
 
 With other college aids, worked on evaluating and assigning BIN (Building Identification Numbers) in the Property Address Directory (PAD) to those missing them. Improve the quality of Primary Land Use Tax Lot Output (PLUTO). Built scripts and a web tool to link out to various research sources.
 
