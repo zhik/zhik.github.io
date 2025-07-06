@@ -19,14 +19,24 @@ title: projects
 
 - Super Steward for NYC Parks; and [Queens Community Board 7 member](https://www.nyc.gov/site/queenscb7/index.page)
 
+- OpenStreetMap mapping
+
 - Manage the ETL process for [deidentified NYC Housing Court Filings data](https://github.com/housing-data-coalition/oca?tab=readme-ov-file) that feed in to the [Housing Data Coalition's nycdb](https://www.housingdatanyc.org/) and Right to Counsel NYC Coalition tools.
 
-- Maintaining scripts for open datasets that should be cataloged by agencies. [MTA Shapefiles](https://github.com/zhik/MTA-Mass-Transit/releases), [up to date school points](https://github.com/zhik/nyc-half-open-data/blob/main/school%20locations%20and%20demographics.ipynb)
+- Maintain scripts for open datasets that should be cataloged by agencies. [MTA Shapefiles](https://github.com/zhik/MTA-Mass-Transit/releases), [up to date school points](https://github.com/zhik/nyc-half-open-data/blob/main/school%20locations%20and%20demographics.ipynb)
 
 
 ## U.S. Census Bureau
 
 Building web interfaces, API backends, and data pipelines to streamline Group Quarters enumeration in preparation for 2030 Census; and rebuilding tools for the public to interact with economic data on business and employees.
+
+![Group Quarters enumeration using different frames](/images/jff.png)
+
+2019 - Citysdk: Census API for javascript (deprecated)
+
+https://uscensusbureau.github.io/citysdk/
+
+![citysdk screenshots](/images/citysdk.png)
 
 ## BetaNYC
 
@@ -53,7 +63,7 @@ Assisted community groups and elected offices in over 200 [research and data pro
 ![Screenshot of the District 33 Tree Map App](/images/tree.png)
 
 
-## American Geographical Society
+## American Geographical Society (Volunteer)
 
 Created dynamic and interactive publications for FOCUS on Geography, a publication of the American Geographical Society.
 
